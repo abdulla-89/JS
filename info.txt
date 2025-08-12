@@ -1,0 +1,8 @@
+Whenever we chnage something in file or add some new file we have to ADD it first and then COMMIT the change.
+When we add the file or change it become STAGED which means it is ready tobe commit.
+When we commit the change it becomes part of the history of the repository.
+
+git add <file name> # add the single file which is named to the staging area.
+git add . # add all the files in the current directory to the staging area.
+
+git commit -m "<message>" # commit the change with a message
