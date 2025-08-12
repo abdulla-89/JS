@@ -6,3 +6,5 @@ git add <file name> # add the single file which is named to the staging area.
 git add . # add all the files in the current directory to the staging area.
 
 git commit -m "<message>" # commit the change with a message
+
+Push command -- Upload local repo to remote repo i.e GitHub.
