@@ -16,6 +16,8 @@
 cd .. # Move to the parent directory (OR)
         This moves us out of the directory.
 
+mkdir <directory name> # Create a new directory within the parent directory like in this case inside JS there will new directory.
+
 --INIT COMMAND--
 
-> git init
+> git init: When we make new directory or file then run this command to make this git file.
